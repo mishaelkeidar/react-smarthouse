@@ -1,4 +1,4 @@
-<h1>smarthouse</h1>
+<h1>Smart-House</h1>
 
 <h3>about</h3>
 
