@@ -1,5 +1,5 @@
 # Smart House
-<p>This application was developed in react.js. The application allows users to effortlessly create dedicated rooms and seamlessly integrate a variety of smart devices in each respective space.</p>
+<p>The application allows you to effortlessly create dedicated rooms and seamlessly integrate a variety of smart devices in each respective space.</p>
 
 ### Screenshot
 
