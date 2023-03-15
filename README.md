@@ -1,4 +1,9 @@
 # Smart House
+
+<p>If you found this project useful or interesting, please consider giving it a star! ⭐️</p>
+
+### Overview
+
 <p>The application allows you to effortlessly create dedicated rooms and seamlessly integrate a variety of smart devices in each respective space.</p>
 
 ### Screenshot
